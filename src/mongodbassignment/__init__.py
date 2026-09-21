@@ -118,12 +118,12 @@ attendancemgr = AttendanceManager(MONGO_URL, "college_data")
 
 
 attendancemgr.add_student(
-    "Raj", "CS001", "raj@gmail.com", "BTech CSE"
+    "Sam", "CS001", "raj@gmail.com", "BTech CSE"
 )
 
 
 attendancemgr.add_student(
-    "Rahul", "CS002", "rahul@gmail.com", "BTech CSE"
+    "James", "CS002", "rahul@gmail.com", "BTech CSE"
 )
 
 
